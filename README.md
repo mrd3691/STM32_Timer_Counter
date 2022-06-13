@@ -1,4 +1,4 @@
-# STM32_Timer
+# STM32_Timer_counter
  Count pulse by timer in STM32 and simulate in proteus</br>
     By click on connected push button to A8, pulse will be generated</br>
  * First configure microcontroller in STM32CubeMX(all files of project is available)</br>
